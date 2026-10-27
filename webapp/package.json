@@ -13,12 +13,12 @@
     "@types/node": "^26.6.5",
     "http-server": "^14.1.1",
     "typescript": "^7.0.2",
-    "vite": "^8.3.4"
+    "vite": "^8.3.5"
   },
   "dependencies": {
     "@types/canvas-confetti": "^1.9.0",
     "canvas-confetti": "^1.9.4",
-    "lucide": "^1.59.0",
+    "lucide": "^1.61.0",
     "motion": "^13.4.4"
   },
   "overrides": {
